@@ -1,4 +1,4 @@
-Sustainability Policy
+# Sustainability Policy
 
 Sustainability is increasingly becoming a key issue for businesses and society in general, as people realise that current industrial, economic and social systems are storing up problems for the future. Sustainability is not about moving backwards, but about looking forward to new, better ways of doing things.
 
@@ -34,7 +34,7 @@ We’re fully committed to reducing our environmental impact by integrating best
 - We adopt best practice and assist, where possible, in developing innovative solutions to the environmental issues and problems facing the web design and development industry.
 - We educate staff on the environmental impact of our industry and encourage them to be generally more environmentally responsible. We also encourage staff to engage in our environmental policy, and consult with them to discuss their environmental concerns and pursue new initiatives.
 - We encourage awareness of and commitment to improved environmental performance amongst our suppliers and clients.
-- We purchase products and services from suppliers that share similar environmental policies to ours inclucing fellow B Corporations.
+- We purchase products and services from suppliers that share similar environmental policies to ours including fellow B Corporations.
   We offer support and sponsorship to local organisations, agencies and not-for-profits in relation to environmental issues.
 - We use our marketing and communication skills to actively promote environmental sustainability and raise awareness of climate change and the environmental impact of the web.
 - We monitor and review our environmental performance, and publish and communicate this to staff and our broader stakeholder network.

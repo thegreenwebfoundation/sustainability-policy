@@ -1,0 +1,18 @@
+title = "Organisations using this policy template"
+
+# If you're an organisation using this policy, and you're using this as a basis, please add a PR to add your organisation below. You don't need to, but it seeing examples makes it easier for others on their journey, and if you found this helpful, it's nice to pay it forward.
+
+# this is written toml, to make it machine and human readable. For more see https://github.com/toml-lang/
+
+orgs = [
+
+  # the original. Thanks for sharing it, folks!
+  "https://granary.wholegraindigital.com/sustainability-policy/",
+
+  # You can name your organisation, by linking to the policy online,
+  # or the page linking to it, like so:
+  # "https://my-responsible-organisiation.com/sustainability-policy/",
+
+  # The Green Web Foundation
+  "https://thegreenwebfoundation.org/sustainabilty-policy",
+]
